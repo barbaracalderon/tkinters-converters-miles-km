@@ -1,5 +1,7 @@
 # Notes on this Project
+
 Notes I took while creating the code and learning about Tkinter. In code format.
+
 ```python
 import tkinter
 
